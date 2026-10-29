@@ -1,0 +1,101 @@
+.flexigrid div.fbutton .add {
+	background: #466baf;
+	border: 1px solid #466baf;
+	padding: 2px 10px;
+	color: #fff;
+	border-radius: 3px;
+}
+
+.flexigrid div.fbutton .disabled {
+	background: #fff;
+	border: 1px solid #466baf;
+	padding: 2px 10px;
+	color: #466baf;
+	border-radius: 3px;
+}
+
+.flexigrid div.fbutton .add:hover {
+	background: #fff;
+	border: 1px solid #466baf;
+	padding: 2px 10px;
+	color: #466baf;
+	border-radius: 3px;
+}
+
+.flexigrid div.fbutton .delete {
+	background: #ef8a80;
+	border: 1px solid #e74c3c;
+	padding: 2px 10px 2px 10px;
+	color: #fff;
+	border-radius: 3px;
+}
+
+.flexigrid div.fbutton .delete:hover {
+	background: #e74c3c;
+	border: 1px solid #d83d2d;
+	padding: 2px 10px 2px 10px;
+	color: #fff;
+	border-radius: 3px;
+}
+
+.flexigrid div.fbutton .edit {
+	background: #aad178;
+	border: 1px solid #7db831;
+	padding: 2px 10px;
+	color: #fff;
+	border-radius: 3px;
+}
+
+.flexigrid div.fbutton .edit:hover {
+	background: #7db831;
+	border: 1px solid #4cae4c;
+	padding: 2px 10px;
+	color: #fff;
+	border-radius: 3px;
+}
+
+.flexigrid div.fbutton .pdf {
+	background: #ef8a80;
+	border: 1px solid #e74c3c;
+	padding: 2px 10px 2px 10px;
+	color: #fff;
+	border-radius: 3px;
+}
+
+.flexigrid div.fbutton .pdf:hover {
+	background: #e74c3c;
+	border: 1px solid #d83d2d;
+	padding: 2px 10px 2px 10px;
+	color: #fff;
+	border-radius: 3px;
+}
+.flexigrid div.fbutton .search {
+	background: #7abce7;
+	border: 1px solid #3498db;
+	padding: 2px 10px 2px 10px;
+	color: #fff;
+	border-radius: 3px;
+}
+
+.flexigrid div.fbutton .search:hover {
+	background: #3498db;
+	border: 1px solid #3498db;
+	padding: 2px 10px 2px 10px;
+	color: #fff;
+	border-radius: 3px;
+}
+.flexigrid div.fbutton .excel {
+	background: #aad178;
+	border: 1px solid #7db831;
+	padding: 2px 10px;
+	color: #fff;
+	border-radius: 3px;
+}
+
+.flexigrid div.fbutton .excel:hover {
+	background: #7db831;
+	border: 1px solid #77b427;
+	padding: 2px 10px;
+	color: #fff;
+	border-radius: 3px;
+}
